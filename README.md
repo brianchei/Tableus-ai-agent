@@ -24,7 +24,7 @@ By fusing **real-time Google Maps geocoding**, **Google Places candidate pools**
 </div>
 
 ---
-
+ 
 ## ⚡ What TableUs Focuses On
 
 - **🎯 Small-Group Meal Planning**: Rapid decision-making for 1-5 people without long-term social network bloat.
